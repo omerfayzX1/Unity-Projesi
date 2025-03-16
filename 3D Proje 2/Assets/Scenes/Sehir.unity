@@ -1375,6 +1375,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2441561981582586005, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.64
+      objectReference: {fileID: 0}
     - target: {fileID: 5649464306443887701, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
       propertyPath: m_Name
       value: Evler
