@@ -1056,7 +1056,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6055801777245067503, guid: bd6dd1ba36bf5904991fc86e8fc37393, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.8149018
+      value: 0.89
       objectReference: {fileID: 0}
     - target: {fileID: 6055801777245067503, guid: bd6dd1ba36bf5904991fc86e8fc37393, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1111,6 +1111,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4991846894454807028, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.38
+      objectReference: {fileID: 0}
     - target: {fileID: 5649464306443887701, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
       propertyPath: m_Name
       value: Evler (1)
@@ -1125,7 +1129,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5934992142694844783, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.5
+      value: 7.11
       objectReference: {fileID: 0}
     - target: {fileID: 5934992142694844783, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
       propertyPath: m_LocalRotation.w
